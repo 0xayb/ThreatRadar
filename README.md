@@ -1,4 +1,4 @@
-# 🛡️ ThreatRadar - Open Source Threat Intelligence Platform
+# 🕵️‍♂️ ThreatRadar - Open Source Threat Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-009688?style=flat&logo=fastapi)
