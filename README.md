@@ -86,8 +86,8 @@ The tool is suitable for:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/threat-radar.git
-cd threat-radar
+git clone https://github.com/0xayb/ThreatRadar.git
+cd ThreatRadar
 
 # Configure environment
 cp config/.env.example config/.env
@@ -101,8 +101,8 @@ docker-compose up -d # Use sudo if it crashes
 
 ```bash
 # Clone and navigate to project
-git clone https://github.com/yourusername/threat-radar.git
-cd threat-radar
+git clone https://github.com/0xayb/ThreatRadar.git
+cd ThreatRadar
 
 # Run the startup script (checks dependencies, creates config, starts containers)
 chmod +x start.sh
